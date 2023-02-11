@@ -652,6 +652,11 @@ body {
     border-radius: 4px;
 }
 
+
+.footer-sub-inp:focus {
+    outline: none;
+}
+
 .footer-sub-btn {
     background-color: #4D5AE5;
     display: flex;
@@ -1000,6 +1005,12 @@ label {
 .form-group-textarea:hover {
     fill: var(--current-text-color);
     border-color: var(--current-text-color);
+    
+}
+
+.form-group-input:focus,
+.form-group-textarea:focus {
+    outline: none;
 }
 
 .form-group-agreement {
