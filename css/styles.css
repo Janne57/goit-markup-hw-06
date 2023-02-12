@@ -1069,8 +1069,7 @@ label {
 
 .form-group-check:checked {
     background-color: var(--site-nav-link);
-    background-size: 10px 8px;
-
+    /* background-size: 10px 8px; */
 }
 
 .form-group-link {
