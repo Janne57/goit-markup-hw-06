@@ -1057,7 +1057,7 @@ label {
     background-image: url("/images/icon/checkbox.svg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 16px 16px;
+    background-size: 0;
 }
 
 .form-group-check:checked {
